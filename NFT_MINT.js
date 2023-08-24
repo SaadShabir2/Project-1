@@ -90,8 +90,6 @@ mintNFT("Zainab" , "Rare" , "Brown" , "INTRO");      //   THIRD ELEMENT IN THE A
 
 mintNFT("Areeba" , "Epic" , "Brown" , "OUTRO");      //   FOURTH ELEMENT IN THE ARRAY OR THE FOURTH OBJECT
 
-mintNFT("Vivek" , "Legendary" , "Brown" , "INTRN");      //    FIFTH ELEMENT IN THE ARRAY OR THE FIFTH OBJECT
-
 
 listNFTs();
 
